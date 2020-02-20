@@ -1,0 +1,25 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p {
+	font-family: Poppins;
+	margin-left: 1.66%;
+	font-size: 20px;
+	font-weight: 600;
+	text-transform: uppercase;
+	border-bottom: 3px solid #174061;
+	width: 30%;
+	padding-bottom: 15px;
+}
+
+p:hover {
+	color: #4c586b;
+}
+
+p span {
+	text-transform: none;
+	color: gray;
+}
