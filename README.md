@@ -1,1 +1,1 @@
-# WebDevelopment
+# Minimalistic Photo Blog
